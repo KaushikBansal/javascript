@@ -1,2 +1,2 @@
 # javascript
-Hello guys chai peelo!
+Hello 
